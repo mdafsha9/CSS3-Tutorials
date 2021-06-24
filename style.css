@@ -32,3 +32,16 @@ span{
 h1, h2, h3{
   font-variant:small-caps;
 }
+p{
+  margin-top:5px;
+  margin-bottom:0px;
+}
+dl{
+  margin-top:5px;
+}
+dt,dd{
+  margin:4px;
+}
+dt{
+  font-weight:bold;
+}
