@@ -3,10 +3,32 @@ h1{
   font-family: "Times New Roman", Times, serif;
 }
 h2{
-  margin-left:25px;
   margin-bottom:0px;
   padding:0px;
+  color:tomato;
 }
 ul, li{
   margin:5px;
+}
+p, span{
+  margin-bottom:0px;
+}
+h3{
+  margin-top:5px;
+  margin-bottom:5px;
+}
+span{
+  color:blue;
+}
+#idsel{
+  font-style:italic;
+}
+.clselc{
+  color:LightGray;
+}
+*{
+  margin-left:20px;
+}
+h1, h2, h3{
+  font-variant:small-caps;
 }
