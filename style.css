@@ -72,12 +72,21 @@ dt{
 h4{
   color:yellow;
 }
-#under{
+.under{
   text-decoration:underline;
 }
-#line{
+.line{
   text-decoration:line-through;
 }
-#over{
+.over{
   text-decoration:overline;
+}
+.low{
+  text-transform:lowercase;
+}
+.upp{
+  text-transform:uppercase;
+}
+.cap{
+  text-transform:captalize;
 }
