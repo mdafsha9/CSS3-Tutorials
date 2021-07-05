@@ -18,7 +18,7 @@ h3{
   margin-bottom:5px;
 }
 span{
-  color:blue;
+  color:violet;
 }
 #idsel{
   font-style:italic;
@@ -46,8 +46,8 @@ dt{
   font-weight:bold;
 }
 body{
-  background-color:black;
-  color:LightGray;
+  background-color:SlateBlue;
+  color:white;
   background-image:url("assets/css.png");
   background-size:100px;
   background-repeat:no-repeat;
@@ -74,19 +74,25 @@ h4{
 }
 .under{
   text-decoration:underline;
+  letter-spacing:5px;
 }
 .line{
   text-decoration:line-through;
+  line-height:1.8px;
 }
 .over{
   text-decoration:overline;
 }
 .low{
   text-transform:lowercase;
+  word-spacing:-5px;
 }
 .upp{
   text-transform:uppercase;
 }
 .cap{
   text-transform:captalize;
+}
+#txt{
+  text-align:center;
 }
