@@ -93,6 +93,12 @@ h4{
 .cap{
   text-transform:captalize;
 }
-#txt{
+#txtc{
   text-align:center;
+}
+#txtr{
+  text-align:right;
+}
+#jus{
+  text-align::justify;
 }
