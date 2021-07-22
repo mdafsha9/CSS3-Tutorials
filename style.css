@@ -18,7 +18,7 @@ h3{
   margin-bottom:5px;
 }
 span{
-  color:violet;
+  color:violet;!important
 }
 #idsel{
   font-style:italic;
@@ -107,5 +107,21 @@ h1{
 }
 span{
   margin:5px;
+}
+a{
   font-size:25px;
+}
+a:link{
+  color:white;
+}
+a:visited{
+  color:green;
+  text-decoration:underline;
+}
+a:hover{
+  color:orange;
+}
+a:active{
+  color:yellow;
+  text-decoration:none;
 }
