@@ -58,6 +58,7 @@ body{
   border:2px solid DodgerBlue;
   width:200px;
   border-radius:10px;
+  list-style-image:url('assets/');
 }
 dl{
   border:2px solid DodgerBlue;
@@ -124,4 +125,13 @@ a:hover{
 a:active{
   color:yellow;
   text-decoration:none;
+}
+.square{
+  list-style-type:square;
+}
+.disc{
+  list-style-type:circle;
+}
+.br{
+
 }
