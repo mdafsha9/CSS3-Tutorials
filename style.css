@@ -16,6 +16,7 @@ p, span{
 h3{
   margin-top:5px;
   margin-bottom:5px;
+  text-decoration:underline;
 }
 span{
   color:violet;!important
@@ -31,6 +32,9 @@ span{
 }
 h1, h2, h3{
   font-variant:small-caps;
+}
+#imp{
+  color: #00ff00;
 }
 p{
   margin-top:5px;
@@ -58,7 +62,6 @@ body{
   border:2px solid DodgerBlue;
   width:200px;
   border-radius:10px;
-  list-style-image:url('assets/');
 }
 dl{
   border:2px solid DodgerBlue;
@@ -132,6 +135,9 @@ a:active{
 .disc{
   list-style-type:circle;
 }
-.br{
-
+.upper{
+  list-style-type:upper-roman;
+}
+.lower{
+  list-style-type:lower-alpha;
 }
