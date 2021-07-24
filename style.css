@@ -141,3 +141,16 @@ a:active{
 .lower{
   list-style-type:lower-alpha;
 }
+#large{
+  width:500px;
+  margin:auto;
+  padding:20px;
+  border:1px solid DodgerBlue;
+}
+#small{
+  max-width:500px;
+  margin:auto;
+  padding:20px;
+  border:1px solid DodgerBlue;
+
+}
