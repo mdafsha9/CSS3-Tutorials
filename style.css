@@ -152,5 +152,9 @@ a:active{
   margin:auto;
   padding:20px;
   border:1px solid DodgerBlue;
-
+}
+#stat{
+  border:1px solid DodgerBlue;
+  padding:25px;
+  width:150px;
 }
