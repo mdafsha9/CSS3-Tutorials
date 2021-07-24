@@ -191,3 +191,10 @@ a:active{
   right:5px;
   bottom:5px;
 }
+#stk{
+  border:1px solid DodgerBlue;
+  padding:25pxpx;
+  position:sticky;
+  top:10px;
+  width:100px;
+}
