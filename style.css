@@ -219,12 +219,24 @@ a:active{
 #b{
   background-color:red;
 }
-.cls1{
-
+.cls1 img{
+  float:left;
+  margin:5px;
 }
 .cls2{
+  background-color:white;
+  color:green;
+  overflow:auto;
+  padding:15px;
+}
+.cls2 img{
+  border:1px solid gold;
+  float:right;
 
 }
 .cls3{
-  
+  clear:both;
+}
+.cls3 img{
+  float:left;
 }
