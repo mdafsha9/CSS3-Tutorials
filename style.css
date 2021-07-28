@@ -193,7 +193,7 @@ a:active{
 }
 #stk{
   border:1px solid DodgerBlue;
-  padding:25pxpx;
+  padding:25px;
   position:sticky;
   top:10px;
   width:100px;
@@ -203,4 +203,8 @@ a:active{
   height:200px;
   overflow:scroll;
 
+}
+#imgsty{
+  max-width:25%;
+  float:right;
 }
