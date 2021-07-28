@@ -239,4 +239,29 @@ a:active{
 }
 .cls3 img{
   float:left;
+  margin:5px;
+}
+span.clsA{
+  display:inline;
+  border:1px solid white;
+  background-color:gold;
+  padding:5px;
+  width:100px;
+  height:100px;
+}
+span.clsB{
+  display:inline-block;
+  border:1px solid white;
+  background-color:gold;
+  padding:5px;
+  width:100px;
+  height:100px;
+}
+span.clsC{
+  display:block;
+  border:1px solid white;
+  background-color:gold;
+  padding:5px;
+  width:100px;
+  height:100px;
 }
