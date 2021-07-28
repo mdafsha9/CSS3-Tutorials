@@ -208,3 +208,14 @@ a:active{
   max-width:25%;
   float:right;
 }
+#a, #b, #c{
+  float:left;
+  padding:10px;
+}
+#a,  #c{
+  color:green;
+  background-color:yellow;
+}
+#b{
+  background-color:red;
+}
