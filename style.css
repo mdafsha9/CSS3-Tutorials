@@ -268,3 +268,6 @@ span.clsC{
 div p{
   color:silver;
 }
+div>p{
+  background-color:black;
+}
