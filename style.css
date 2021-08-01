@@ -265,12 +265,15 @@ span.clsC{
   width:100px;
   height:100px;
 }
-div p{
-  color:silver;
+ div p{
+  color:yellow;
 }
-div>p{
-  background-color:black;
+ div>p{
+  text-shadow:2px 2px 5px red;
 }
-div+p{
+ div+p{
   font-size:25px;
+}
+ div~p{
+   text-transform:capitalize;
 }
