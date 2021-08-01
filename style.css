@@ -271,3 +271,6 @@ div p{
 div>p{
   background-color:black;
 }
+div+p{
+  font-size:25px;
+}
