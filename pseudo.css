@@ -15,3 +15,6 @@ h3{
 #nc li:nth-child(3){
   color:red;
 }
+#nlc li:nth-last-child(2){
+  color:red;
+}
