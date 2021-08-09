@@ -1,11 +1,14 @@
 .pse{
   column-count:4;
 }
- ul li:first-child{
+#fc li:first-child{
   color:red;
 }
 h3{
   font-variant:normal;
   text-decoration:none;
   color:tomato;
+}
+#lc li:last-child{
+  color:red;
 }
