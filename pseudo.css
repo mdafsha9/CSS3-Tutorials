@@ -12,3 +12,6 @@ h3{
 #lc li:last-child{
   color:red;
 }
+#nc li:nth-child(3){
+  color:red;
+}
