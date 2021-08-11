@@ -43,6 +43,8 @@ a:visited{
 a:hover{
   background-color:HotPink;
   text-decoration:underline;
+  padding:25px;
+  color:gold;
 }
 a:active{
   color:gold;
@@ -51,5 +53,8 @@ a:active{
 }
 h6:only-child{
   color:gold;
-
+}
+input:checked{
+  height:25px;
+  width:25px;
 }
