@@ -58,3 +58,9 @@ input:checked{
   height:25px;
   width:25px;
 }
+input[type=text]:enabled{
+  background-color:yellow;
+}
+input[type=text]:disabled{
+  background-color:gray;
+}
