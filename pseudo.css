@@ -44,3 +44,8 @@ a:hover{
   background-color:HotPink;
   text-decoration:underline;
 }
+a:active{
+  color:gold;
+  text-decoration:none;
+  background-color:none;
+}
