@@ -30,3 +30,7 @@ p:nth-of-type(2){
 p:nth-last-of-type(1){
   border:1px solid white;
 }
+a:link{
+  color:blue;
+  text-decoration:none;
+}
