@@ -49,3 +49,7 @@ a:active{
   text-decoration:none;
   background-color:none;
 }
+h6:only-child{
+  color:gold;
+
+}
