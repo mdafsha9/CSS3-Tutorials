@@ -286,3 +286,12 @@ span.clsC{
 span{
   background-color:brown !important;
 }
+#op{
+  float:left;
+}
+div img{
+  opacity:0.5;
+}
+div img:hover{
+  opacity:1.0;
+}
