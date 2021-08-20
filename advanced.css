@@ -10,3 +10,16 @@
   border:2px solid cyan;
   padding:20px;
 }
+#box3{
+  width:300px;
+  height:100px;
+  border:2px solid cyan;
+}
+
+#box4{
+  width:300px;
+  height:100px;
+  border:2px solid cyan;
+  padding:20px;
+  box-sizing:border-box;
+}
