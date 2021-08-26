@@ -46,5 +46,14 @@
   background-position:right;
 }
 dl dt{
-  border:none !important; 
+  border:none !important;
+}
+#box7{
+  width:100px;
+  height:100px;
+  background-color:cyan;
+  transition:width 2s;
+}
+#box7:hover{
+  width:300px;
 }
