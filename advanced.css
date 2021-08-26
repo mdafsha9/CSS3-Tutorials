@@ -64,7 +64,7 @@ dl dt{
   width:300px;
   height:300px;
 }
-#box10, #box11, #box12, #box13,#box14{
+#box10, #box11, #box12, #box13,#box14,#box15{
   text-align:center;
   width:100px;
   height:100px;
@@ -103,5 +103,11 @@ dl dt{
   transition-timing-function: ease-in-out;
 }
 #box14:hover{
+  width:300px;
+}
+#box15{
+  transition-delay:1s;
+}
+#box15:hover{
   width:300px;
 }
