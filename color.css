@@ -10,17 +10,7 @@ body{
 h1, h2, h3{
   font-variant:small-caps;
 }
-.ex1{
-  background-color:lightgreen;
-  padding:15px;
-  color:red;
-}
-.ex2{
-  background-color:transparent;
-  padding:15px;
-  color:red;
-  border:1px solid cyan;
-}
+
 h1{
   text-align:center;
   font-family: "Times New Roman", Times, serif;
@@ -37,4 +27,19 @@ h3{
   margin-top:5px;
   margin-bottom:5px;
   text-decoration:underline;
+}
+.ex1{
+  background-color:lightgreen;
+  padding:15px;
+  color:red;
+}
+.ex2{
+  background-color:transparent;
+  padding:15px;
+  color:red;
+  border:1px solid cyan;
+}
+.ex3{
+  border:1px solid currentcolor;
+  padding:10px;
 }
