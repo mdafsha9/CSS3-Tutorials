@@ -64,3 +64,44 @@ dl dt{
   width:300px;
   height:300px;
 }
+#box10, #box11, #box12, #box13,#box14{
+  text-align:center;
+  width:100px;
+  height:100px;
+  background-color:cyan;
+  color:blue;
+  font-weight:bold;
+  padding-top:35px;
+  box-sizing:border-box;
+  transition:width 2s;
+}
+#box10{
+  transition-timing-function: ease;
+}
+#box10:hover{
+  width:300px;
+}
+#box11{
+  transition-timing-function: linear;
+}
+#box11:hover{
+  width:300px;
+}
+#box12{
+  transition-timing-function: ease-in;
+}
+#box12:hover{
+  width:300px;
+}
+#box13{
+  transition-timing-function: ease-out;
+}
+#box13:hover{
+  width:300px;
+}
+#box14{
+  transition-timing-function: ease-in-out;
+}
+#box14:hover{
+  width:300px;
+}
