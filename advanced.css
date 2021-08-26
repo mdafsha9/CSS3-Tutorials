@@ -48,12 +48,15 @@
 dl dt{
   border:none !important;
 }
-#box7{
+#box7,#box8{
   width:100px;
   height:100px;
   background-color:cyan;
-  transition:width 2s;
+  transition:width 2s, height 4s;
 }
 #box7:hover{
   width:300px;
+}
+#box8:hover{
+  height:300px;
 }
