@@ -1,0 +1,14 @@
+body{
+
+}
+.ex1{
+  background-color:lightgreen;
+  padding:15px;
+  color:red;
+}
+.ex2{
+  background-color:transparent;
+  padding:15px;
+  color:red;
+  border:1px solid cyan;
+}
