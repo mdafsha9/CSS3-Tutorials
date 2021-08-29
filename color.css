@@ -112,7 +112,7 @@ span{
   color:blue;
   background-image:radial-gradient(yellow, red, green );
 }
-.rad{
+.rad1{
   width:100%;
   height:100px;
   text-align:center;
@@ -120,4 +120,13 @@ span{
   font-weight:bold;
   color:blue;
   background-image:radial-gradient( gold 30%, red 32%, yellow 50%, red 55%, cyan 60% );
+}
+.rad2{
+  width:100%;
+  height:100px;
+  text-align:center;
+  padding-top:80px;
+  font-weight:bold;
+  color:blue;
+  background-image:radial-gradient( circle, cyan, white, yellow );
 }
