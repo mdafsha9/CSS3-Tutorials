@@ -76,3 +76,11 @@ span{
   color:blue;
   background-image:linear-gradient(to bottom right, red, yellow);
 }
+.gra3{
+  width:100%;
+  height:100px;
+  text-align:center;
+  padding-top:80px;
+  font-weight:bold;
+  background-image:linear-gradient(to right, black, brown, red, orange, yellow, green, blue, violet, gray, white, gold, silver);
+}
