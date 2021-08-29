@@ -28,3 +28,7 @@ h3{
   margin-bottom:5px;
   text-decoration:underline;
 }
+.txt{
+  text-shadow:2px 2px;
+  font-size:25px;
+}
