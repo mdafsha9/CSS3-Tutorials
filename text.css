@@ -28,10 +28,13 @@ h3{
   margin-bottom:5px;
   text-decoration:underline;
 }
-.txt, .txt1{
+.txt, .txt1, .txt2{
   text-shadow:2px 2px;
   font-size:25px;
 }
 .txt1{
   text-shadow:2px 2px red;
+}
+.txt2{
+  text-shadow:2px 2px 5px red;
 }
