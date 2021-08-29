@@ -91,5 +91,15 @@ span{
   text-align:center;
   padding-top:80px;
   font-weight:bold;
+  color:blue;
+  font-size:25px;
+  background-image:repeating-linear-gradient(45deg, white 5%, brown 6%, violet 5% );
+}
+.gra5{
+  width:100%;
+  height:100px;
+  text-align:center;
+  padding-top:80px;
+  font-weight:bold;
   background-image:linear-gradient(to right, black, brown, red, orange, yellow, green, blue, violet, gray, white, gold, silver);
 }
