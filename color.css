@@ -82,5 +82,14 @@ span{
   text-align:center;
   padding-top:80px;
   font-weight:bold;
+  color:blue;
+  background-image:linear-gradient(360deg, white, cyan);
+}
+.gra4{
+  width:100%;
+  height:100px;
+  text-align:center;
+  padding-top:80px;
+  font-weight:bold;
   background-image:linear-gradient(to right, black, brown, red, orange, yellow, green, blue, violet, gray, white, gold, silver);
 }
