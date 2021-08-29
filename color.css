@@ -103,7 +103,7 @@ span{
   font-weight:bold;
   background-image:linear-gradient(to right, black, brown, red, orange, yellow, green, blue, violet, gray, white, gold, silver);
 }
-.rad{
+.rad, .rad1, .rad2, .rad3, .rad4{
   width:100%;
   height:100px;
   text-align:center;
@@ -113,29 +113,14 @@ span{
   background-image:radial-gradient(yellow, red, green );
 }
 .rad1{
-  width:100%;
-  height:100px;
-  text-align:center;
-  padding-top:80px;
-  font-weight:bold;
-  color:blue;
   background-image:radial-gradient( gold 30%, red 32%, yellow 50%, red 55%, cyan 60% );
 }
 .rad2{
-  width:100%;
-  height:100px;
-  text-align:center;
-  padding-top:80px;
-  font-weight:bold;
-  color:blue;
   background-image:radial-gradient( circle, cyan, white, yellow );
 }
 .rad3{
-  width:100%;
-  height:100px;
-  text-align:center;
-  padding-top:80px;
-  font-weight:bold;
-  color:blue;
   background-image:radial-gradient(cyan, white, yellow );
+}
+.rad4{
+  background-image:repeating-radial-gradient(cyan 5%, white 6%, yellow 7%);
 }
