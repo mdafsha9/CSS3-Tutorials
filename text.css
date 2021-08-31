@@ -38,3 +38,14 @@ h3{
 .txt2{
   text-shadow:2px 2px 5px red;
 }
+.box{
+  width:100px;
+  height:100px;
+  background-color:cyan;
+  border:1px solid white;
+  text-align:center;
+  padding-top:35px;
+  box-sizing:border-box;
+  box-shadow:5px 5px 3px white;
+
+}
