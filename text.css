@@ -41,11 +41,26 @@ h3{
 .box{
   width:100px;
   height:100px;
-  background-color:cyan;
-  border:1px solid white;
+  background-color:gray;
+  border:1px solid #bec2bf;
   text-align:center;
   padding-top:35px;
   box-sizing:border-box;
-  box-shadow:5px 5px 3px white;
-
+  box-shadow:5px 5px 3px #bec2bf;
+}
+.cal{
+  width:250px;
+  text-align:center;
+  padding:10px;
+  box-shadow:0 4px 8px 0 rgba(0,0,0,0,2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.header{
+  font-size:7em;
+  padding:10px;
+  background-color:#2796a1;
+}
+.container{
+  padding:10px;
+  background-color:white;
+  color:#2796a1;
 }
