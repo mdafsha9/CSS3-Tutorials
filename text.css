@@ -72,3 +72,10 @@ h3{
   text-overflow:clip;
   padding:2px;
 }
+#txt1{
+  white-space:nowrap;
+  border:1px solid cyan;
+  width:300px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
