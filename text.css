@@ -64,3 +64,11 @@ h3{
   background-color:white;
   color:#2796a1;
 }
+#txt{
+  white-space:nowrap;
+  width:300px;
+  border:1px solid cyan;
+  overflow:hidden;
+  text-overflow:clip;
+  padding:2px;
+}
