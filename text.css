@@ -49,10 +49,10 @@ h3{
   box-shadow:5px 5px 3px #bec2bf;
 }
 .cal{
-  width:250px;
+  width:230px;
   text-align:center;
-  padding:10px;
-  box-shadow:0 4px 8px 0 rgba(0,0,0,0,2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  padding:2px;
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .header{
   font-size:7em;
