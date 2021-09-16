@@ -104,3 +104,13 @@ h3{
   border:1px solid cyan;
   word-wrap:break-word;
 }
+.brk{
+  width:200px;
+  border:1px solid cyan;
+  word-break:keep-all;
+}
+.brk1{
+  width:200px;
+  border:1px solid cyan;
+  word-break:break-all;
+}
