@@ -28,7 +28,7 @@ h3{
   margin-bottom:5px;
   text-decoration:underline;
 }
-.trans, .trans1, .rota, .rota1, .sca, .sca1{
+.trans, .trans1, .rota, .rota1, .sca, .sca1, .scax, .scax1{
   width:200px;
   border:1px solid green;
   background-color:white;
@@ -46,4 +46,7 @@ h3{
 .sca1{
   transform:scale(0.5,1);
   margin-left:5px;
+}
+.scax1{
+  transform:scaleX(2);
 }
