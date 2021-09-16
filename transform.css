@@ -28,7 +28,7 @@ h3{
   margin-bottom:5px;
   text-decoration:underline;
 }
-.trans, .trans1, .rota, .rota1, .sca, .sca1, .scax, .scax1, .scay, .scay1, .ske, .ske1, .skex, .skex1{
+.trans, .trans1, .rota, .rota1, .sca, .sca1, .scax, .scax1, .scay, .scay1, .ske, .ske1, .skex, .skex1, .skey, .skey1{
   width:200px;
   border:1px solid green;
   background-color:white;
@@ -58,4 +58,7 @@ h3{
 }
 .skex1{
   transform:skewX(10deg);
+}
+.skey1{
+  transform:skewY(10deg);
 }
