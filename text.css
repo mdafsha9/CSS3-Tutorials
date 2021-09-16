@@ -79,3 +79,13 @@ h3{
   overflow:hidden;
   text-overflow:ellipsis;
 }
+#txt2{
+  white-space:nowrap;
+  border:1px solid cyan;
+  width:300px;
+  overflow:hidden;
+  text-overflow:clip;
+}
+#txt2:hover{
+  overflow:visible;
+}
