@@ -89,3 +89,13 @@ h3{
 #txt2:hover{
   overflow:visible;
 }
+#txt3{
+  white-space:nowrap;
+  border:1px solid cyan;
+  width:300px;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+#txt3:hover{
+  overflow:visible;
+}
