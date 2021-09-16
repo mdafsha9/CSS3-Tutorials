@@ -99,3 +99,8 @@ h3{
 #txt3:hover{
   overflow:visible;
 }
+.wrd{
+  width:200px;
+  border:1px solid cyan;
+  word-wrap:break-word;
+}
