@@ -62,7 +62,7 @@ h3{
 .skey1{
   transform:skewY(10deg);
 }
-.rotate1, .rotate2{
+.rotate1, .rotate2, .rotate3{
   width:150px;
   border:1px solid green;
   background-color:white;
@@ -76,4 +76,7 @@ h3{
 }
 .rotate2:hover{
   transform:rotateY(150deg);
+}
+.rotate3:hover{
+  transform:rotateZ(90deg);
 }
