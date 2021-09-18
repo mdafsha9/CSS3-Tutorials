@@ -54,3 +54,41 @@ h3{
   width:200px;
   transition-duration:5s;
 }
+dt{
+  font-weight:bold;
+  font-size:17px;
+  text-decoration:underline;
+}
+.ttf1, .ttf2, .ttf3, .ttf4, .ttf5, .ttf6{
+  width:150px;
+  border:1px solid red;
+  background-color:green;
+  transition:width 2s, height 2s;
+  padding:10px;
+  box-sizing:border-box;
+  text-align:center;
+}
+.ttf1:hover{
+  width:250px;
+  transition-timing-function:ease;
+}
+.ttf2:hover{
+  width:250px;
+  transition-timing-function:linear;
+}
+.ttf3:hover{
+  width:250px;
+  transition-timing-function:ease-in;
+}
+.ttf4:hover{
+  width:250px;
+  transition-timing-function:ease-out;
+}
+.ttf5:hover{
+  width:250px;
+  transition-timing-function:ease-in-out;
+}
+.ttf6:hover{
+  width:250px;
+  transition-timing-function:cubic-bezier(0.1, 0.7, 1.0, 0.1);
+}
