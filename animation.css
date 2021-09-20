@@ -28,7 +28,7 @@ h3{
   margin-bottom:5px;
   text-decoration:underline;
 }
-.ke1, .ke2, .ke3, .ke4, .ke5, .ke6{
+.ke1, .ke2, .ke3, .ke4, .ke5, .ke6, .ke7{
   width:150px;
   height:100px;
   border:1px solid white;
@@ -109,9 +109,25 @@ dt{
   animation-delay:4s;
   animation-duration:5s;
   position:relative;
+  animation-iteration-count:2;
   animation-direction:alternate;
 }
 @keyframes example5{
+  0% {background-color:orange; left:0px; top:0px;}
+  25% {background-color:red; left:200px; top:0px}
+  50% {background-color:yellow; left:200px; top:200px;}
+  75% {background-color:blue; left:0px; top:200px;}
+  100%{background-color:gold; left:0px; top:0px;}
+}
+.ke7{
+  animation-name:example6;
+  animation-delay:4s;
+  animation-duration:5s;
+  position:relative;
+  animation-iteration-count:3;
+  animation-direction:alternate-reverse;
+}
+@keyframes example6{
   0% {background-color:orange; left:0px; top:0px;}
   25% {background-color:red; left:200px; top:0px}
   50% {background-color:yellow; left:200px; top:200px;}
