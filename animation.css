@@ -134,3 +134,35 @@ dt{
   75% {background-color:blue; left:0px; top:200px;}
   100%{background-color:gold; left:0px; top:0px;}
 }
+.ke8, .ke9, .ke10, .ke11, .ke12, .ke13{
+  width:100px;
+  border:1px solid white;
+  background-color:black;
+  padding:15px;
+  text-align:center;
+  position:relative;
+  animation:example7 5s infinite;
+}
+.ke8{
+  animation-timing-function:ease;
+}
+.ke9{
+  animation-timing-function:linear;
+}
+
+.ke10{
+  animation-timing-function:ease-in;
+}
+.ke11{
+  animation-timing-function:ease-out;
+}
+.ke12{
+  animation-timing-function:ease-in-out;
+}
+.ke13{
+  animation-timing-function:cubic-bezier(0.3,0.6,1.0,0.2);
+}
+@keyframes example7{
+  from {left:0px;}
+  to {left:300px;}
+}
