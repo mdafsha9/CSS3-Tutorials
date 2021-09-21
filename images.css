@@ -39,3 +39,13 @@ h3{
   max-width:100%;
   height:auto;
 }
+.roundimg{
+  border-radius:10px;
+  width:200px;
+  height:200px;
+}
+.circleimg{
+  border-radius:50%;
+  width:200px;
+  height:200px;
+}
