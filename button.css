@@ -130,3 +130,15 @@ h3{
 .btn-group .buttongrp:hover{
   background-color:green;
 }
+.btn-vertgroup .buttonver{
+  display:block;
+  padding:15px;
+  width:150px;
+  cursor:pointer;
+  background-color:LightGreen;
+  color:white;
+  border:none;
+}
+.btn-vertgroup .buttonver:hover{
+  background-color:green;
+}
