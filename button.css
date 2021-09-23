@@ -119,3 +119,14 @@ h3{
 .width3{
   width:100%;
 }
+.btn-group .buttongrp{
+  float:left;
+  background-color:LightGreen;
+  color:white;
+  padding:10px 20px;
+  border:none;
+  cursor:pointer;
+}
+.btn-group .buttongrp:hover{
+  background-color:green;
+}
