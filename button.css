@@ -36,7 +36,7 @@ h3{
   text-decoration:none;
   color:white;
 }
-.button1{background-color:red;}
+ .button1{background-color:red;}
 .button2{background-color:blue;}
 .button3{background-color:orange;}
 .button4{background-color:gray;}
@@ -62,4 +62,27 @@ h3{
 .button_1, .button_2, .button_3, .button_4, .button_5{
   color:green;
   background-color:white;
+}
+.button7{
+  border:1px solid blue;
+  background-color:LightGreen;
+  padding:15px;
+  border-radius:5px;
+  text-decoration:none;
+  color:white;
+}
+.button01:hover{
+  background-color:white; border:4px solid red; color:red; transition-duration:2s;
+}
+.button02:hover{
+  background-color:white; border:4px solid blue; color:blue; transition-duration:2s;
+}
+.button03:hover{
+  background-color:white; border:4px solid orange; color:orange; transition-duration:2s;
+}
+.button04:hover{
+  background-color:white; border:4px solid gray; color:gray; transition-duration:2s;
+}
+.button05:hover{
+  background-color:white; border:4px solid black; color:black; transition-duration:2s;
 }
