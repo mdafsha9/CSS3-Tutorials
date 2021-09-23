@@ -1,1 +1,30 @@
+body{
+  background-color:SlateBlue;
+  color:white;
+  background-image:url("assets/css.png");
+  background-size:100px;
+  background-repeat:no-repeat;
+  background-position:right top;
+  background-attachment:fixed;
+}
+h1, h2, h3{
+  font-variant:small-caps;
+}
 
+h1{
+  text-align:center;
+  font-family: "Times New Roman", Times, serif;
+}
+h2{
+  margin-bottom:0px;
+  padding:0px;
+  color:tomato;
+}
+ul, li{
+  margin:5px;
+}
+h3{
+  margin-top:5px;
+  margin-bottom:5px;
+  text-decoration:underline;
+}
