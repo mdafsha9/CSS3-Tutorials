@@ -53,3 +53,13 @@ h3{
 .button-3{border-radius:12px; background-color:orange;}
 .button-4{border-radius:24px; background-color:gray;}
 .button-5{border-radius:50%; background-color:black;}
+
+.button_1{border:2px solid red;}
+.button_2{border:2px solid blue ;}
+.button_3{border:2px solid orange;}
+.button_4{border:2px solid gray;}
+.button_5{border:2px solid black;}
+.button_1, .button_2, .button_3, .button_4, .button_5{
+  color:green;
+  background-color:white;
+}
