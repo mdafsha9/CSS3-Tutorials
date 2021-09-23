@@ -34,5 +34,10 @@ h3{
   padding:15px;
   border-radius:5px;
   text-decoration:none;
-  color:green;
+  color:white;
 }
+.button1{background-color:red;}
+.button2{background-color:blue;}
+.button3{background-color:orange;}
+.button4{background-color:gray;}
+.button5{background-color:black;}
