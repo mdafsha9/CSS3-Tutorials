@@ -87,6 +87,47 @@ h3{
   background-color:white; border:4px solid black; color:black; transition-duration:2s;
 }
 
+.button001{
+  background-color:white;
+  color:red;
+}
+.button001:hover{
+  background-color:LightGreen;
+  border:2px solid red;
+}
+.button002{
+  background-color:white;
+  color:blue;
+}
+.button002:hover{
+  background-color:LightGreen;
+  border:2px solid blue;
+}
+.button003{
+  background-color:white;
+  color:orange;
+}
+.button003:hover{
+  background-color:LightGreen;
+  border:2px solid orange;
+}
+.button004{
+  background-color:white;
+  color:gray;
+}
+.button004:hover{
+  background-color:LightGreen;
+  border:2px solid gray;
+}
+.button005{
+  background-color:white;
+  color:black;
+}
+.button005:hover{
+  background-color:LightGreen;
+  border:2px solid black;
+}
+
 .shaw{
   padding:15px;
   background-color:gray;
