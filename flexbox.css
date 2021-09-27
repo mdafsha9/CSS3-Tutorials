@@ -39,3 +39,17 @@ h3{
   display:flex;
   background-color:white;
 }
+.flex-container_a{
+  display:flex;
+  background-color:white;
+  width:500px;
+  height:200px;
+  flex-direction:row;
+}
+.flex-item1{
+  background-color:blue;
+  border:1px solid blue;
+  padding:15px;
+  margin:10px;
+  height:20px;
+}
