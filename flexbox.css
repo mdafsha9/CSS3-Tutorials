@@ -112,3 +112,14 @@ h3{
   margin:10px;
   height:20px;
 }
+.flex-container_g{
+  display:flex;
+  background-color:white;
+  flex-wrap:wrap-reverse;
+}
+.flex-item7{
+  background-color:blue;
+  padding:15px;
+  margin:10px;
+  height:20px;
+}
