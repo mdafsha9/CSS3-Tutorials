@@ -200,3 +200,16 @@ h3{
   margin:10px;
   height:20px;
 }
+
+.flex-container_A{
+  display:flex;
+  background-color:white;
+  align-items:center;
+  height:200px;
+}
+.flex-item15{
+  background-color:blue;
+  padding:15px;
+  margin:10px;
+  height:20px;
+}
