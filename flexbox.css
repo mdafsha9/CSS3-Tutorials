@@ -213,3 +213,15 @@ h3{
   margin:10px;
   height:20px;
 }
+.flex-container_A1{
+  display:flex;
+  background-color:white;
+  align-items:flex-start;
+  height:200px;
+}
+.flex-item16{
+  background-color:blue;
+  padding:15px;
+  margin:10px;
+  height:20px;
+}
