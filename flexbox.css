@@ -99,7 +99,6 @@ h3{
   background-color:blue;
   padding:20px;
   margin:10px;
-  height:20px;
 }
 .flex-container_f{
   display:flex;
@@ -110,7 +109,6 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
 }
 .flex-container_g{
   display:flex;
@@ -121,7 +119,6 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
 }
 .flex-container_h{
   display:flex;
@@ -132,7 +129,6 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
 }
 .flex-container_j{
   display:flex;
@@ -143,7 +139,6 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
 }
 .flex-container_j1{
   display:flex;
@@ -154,7 +149,6 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
 }
 .flex-container_j2{
   display:flex;
@@ -165,7 +159,6 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
 }
 .flex-container_j3{
   display:flex;
@@ -176,7 +169,6 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
 }
 .flex-container_j4{
   display:flex;
@@ -187,7 +179,6 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
 }
 .flex-container_j5{
   display:flex;
@@ -198,7 +189,6 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
 }
 
 .flex-container_A{
@@ -211,7 +201,6 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
 }
 .flex-container_A1{
   display:flex;
@@ -223,7 +212,6 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
 }
 .flex-container_A2{
   display:flex;
@@ -235,5 +223,15 @@ h3{
   background-color:blue;
   padding:15px;
   margin:10px;
-  height:20px;
+}
+.flex-container_A3{
+  display:flex;
+  background-color:white;
+  align-items:stretch;
+  height:200px;
+}
+.flex-item18{
+  background-color:blue;
+  padding:15px;
+  margin:10px;
 }
