@@ -225,3 +225,15 @@ h3{
   margin:10px;
   height:20px;
 }
+.flex-container_A2{
+  display:flex;
+  background-color:white;
+  align-items:flex-end;
+  height:200px;
+}
+.flex-item17{
+  background-color:blue;
+  padding:15px;
+  margin:10px;
+  height:20px;
+}
