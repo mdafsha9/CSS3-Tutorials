@@ -134,3 +134,14 @@ h3{
   margin:10px;
   height:20px;
 }
+.flex-container_j{
+  display:flex;
+  background-color:white;
+  justify-content:center;
+}
+.flex-item9{
+  background-color:blue;
+  padding:15px;
+  margin:10px;
+  height:20px;
+}
