@@ -331,3 +331,15 @@ background-color:blue;
 padding:20px;
 margin:10px;
 }
+.flex-containerAC6{
+display:flex;
+flex-wrap:wrap;
+align-content:flex-end;
+height:600px;
+background-color:white;
+}
+.flex-itemac6{
+background-color:blue;
+padding:20px;
+margin:10px;
+}
