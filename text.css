@@ -122,11 +122,19 @@ h3{
 h2{
   column-span:all;
 }
-.res{
+.resH{
   border:1px solid lightblue;
   width:300px;
   height:100px;
   overflow:auto;
   resize:horizontal;
+  padding:25px;
+}
+.resV{
+  border:1px solid lightblue;
+  width:300px;
+  height:100px;
+  overflow:auto;
+  resize:vertical;
   padding:25px;
 }
