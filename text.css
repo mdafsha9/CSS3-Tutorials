@@ -122,3 +122,11 @@ h3{
 h2{
   column-span:all;
 }
+.res{
+  border:1px solid lightblue;
+  width:300px;
+  height:100px;
+  overflow:auto;
+  resize:horizontal;
+  padding:25px;
+}
