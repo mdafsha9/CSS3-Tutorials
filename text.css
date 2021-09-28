@@ -146,3 +146,9 @@ h2{
   resize:both;
   padding:25px;
 }
+.out{
+  border:1px solid lightblue;
+  padding:10px;
+  outline-offset:5px;
+  outline:1px solid lightblue;
+}
