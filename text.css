@@ -114,3 +114,8 @@ h3{
   border:1px solid cyan;
   word-break:break-all;
 }
+.newspaper{
+  column-count:3;
+  column-gap:40px;
+  column-rule:1px solid lightblue;
+}
