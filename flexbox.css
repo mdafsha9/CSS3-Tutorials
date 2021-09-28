@@ -295,3 +295,15 @@ background-color:blue;
 padding:20px;
 margin:10px;
 }
+.flex-containerAC3{
+display:flex;
+flex-wrap:wrap;
+align-content:center;
+height:600px;
+background-color:white;
+}
+.flex-itemac3{
+background-color:blue;
+padding:20px;
+margin:10px;
+}
