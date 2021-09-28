@@ -124,17 +124,25 @@ h2{
 }
 .resH{
   border:1px solid lightblue;
-  width:300px;
-  height:100px;
+  width:100px;
+  height:50px;
   overflow:auto;
   resize:horizontal;
   padding:25px;
 }
 .resV{
   border:1px solid lightblue;
-  width:300px;
-  height:100px;
+  width:100px;
+  height:50px;
   overflow:auto;
   resize:vertical;
+  padding:25px;
+}
+.resB{
+  border:1px solid lightblue;
+  width:100px;
+  height:50px;
+  overflow:auto;
+  resize:both;
   padding:25px;
 }
