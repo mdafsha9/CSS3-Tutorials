@@ -36,3 +36,20 @@ h3{
   left:25px;
   width:100px;
 }
+.rel{
+  border:1px solid violet;
+  padding:10px;
+  position:relative;
+  top:25px;
+  left:25px;
+  width:150px;
+  height:150px;
+}
+.absolu{
+  border:1px solid violet;
+  width:50px;
+  position:absolute;
+  bottom:5px;
+  right:5px;
+  padding:10px;
+}
