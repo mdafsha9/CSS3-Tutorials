@@ -7,6 +7,9 @@ h2{
   padding:0px;
   color:tomato;
 }
+body{
+  background: url("assets/flower.jpg");
+}
 ul, li{
   margin:5px;
 }
