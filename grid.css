@@ -60,6 +60,7 @@ main, .container1, .container2{
 }
 .container3{
   grid-row-gap:20px;
+  grid-column-gap:20px;
   grid-template-rows:repeat(2,150px);
   grid-template-columns:repeat(3, 1fr);
 }
