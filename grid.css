@@ -47,7 +47,9 @@ main, .container1, .container2{
 .div2{background:yellow;}
 .div3{background:green;}
 .div4{background:violet;}
-.div5{background:blue;}
+.div5{background:blue;
+  grid-row-start:1; grid-row-end:2;
+}
 .div6{background:orange;}
 
 .container1{
