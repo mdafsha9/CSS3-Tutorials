@@ -32,11 +32,13 @@ h3{
   margin-top:5px;
   margin-bottom:5px;
 }
-main{
+main, .container1{
   width:50%;
   margin:50px auto;
   display:grid;
-  border:1px solid white;
+    border:1px solid white;
+}
+ .container{
   grid-template-rows:150px 150px;
   grid-template-columns:150px 150px 150px;
 }
@@ -46,3 +48,8 @@ main{
 .div4{background:violet;}
 .div5{background:blue;}
 .div6{background:orange;}
+
+.container1{
+  grid-template-rows:150px 150px;
+  grid-template-columns:150px 150px 1fr;
+}
