@@ -16,7 +16,7 @@ h1, h2, h3{
   font-variant:small-caps;
 }
 
-h1{
+h1, p{
   text-align:center;
   font-family: "Times New Roman", Times, serif;
 }
