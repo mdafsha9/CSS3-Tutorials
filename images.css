@@ -63,3 +63,17 @@ h3{
   margin-right:auto;
   display:block;
 }
+.banana img{
+  width:30%;
+  display:inline-grid;
+}
+.blur{filter:blur(4px);}
+.brightness{filter:brightness(250%);}
+.saturate{filter:saturate(7);}
+.invert{filter:invert(100%);}
+.huerotate{filter:hue-rotate(180deg);}
+.shawdow{filter:drop-shadow(8px 8px 10px green);}
+.opacity{filter:opacity(50%);}
+.sepia{filter:sepia(100%);}
+.grayscale{filter:grayscale(100%);}
+.contrast{filter:contrast(180%);}
