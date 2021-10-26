@@ -15,3 +15,7 @@ h4::before{
 ::marker{
   color:red;
 }
+::selection{
+  color:yellow;
+  background-color:green;
+}
