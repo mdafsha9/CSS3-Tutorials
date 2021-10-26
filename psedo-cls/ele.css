@@ -12,3 +12,6 @@ h4::before{
   font-size:100px;
   color:navy;
 }
+::marker{
+  color:red;
+}
