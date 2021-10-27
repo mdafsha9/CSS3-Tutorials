@@ -9,3 +9,23 @@
   float:left;
   margin:5px;
 }
+h1{
+  clear:left;
+}
+.fix{
+  width:200px;
+  height:200px;
+  border:1px solid green;
+  padding:70px;
+  box-sizing:border-box;
+  background:yellow;
+  color:brown;
+  float:right;
+  margin:5px;
+  overflow:auto;
+}
+.clrfix{
+  border:1px solid green;
+  padding:10px;
+  overflow:auto;
+}
