@@ -1,0 +1,14 @@
+:root{
+--lightGreen:#b9faca;
+  --white:#ffffff;
+}
+.container{
+  background:var(--lightGreen);
+  margin:50px;
+  padding:20px;
+}
+h1{
+  border-bottom:3px solid var(--lightGreen);
+  width:200px;
+
+}
