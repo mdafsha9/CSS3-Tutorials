@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSS z-index</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      .black-box{
+        background:black;
+        width:200px;
+        height:100px;
+        position:absolute;
+        top:100px;
+        left:0px;
+        z-index:1;
+      }
+      .pink-box{
+        background:pink;
+        width:100px;
+        height:50px;
+        position:absolute;
+        top:100px;
+        left:10px;
+        z-index:2;
+      }
+      .gray-box{
+        background:green;
+        width:70px;
+        height:30px;
+        position:absolute;
+        top:100px;
+        left:25px;
+        z-index:3;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>z-index property</h2>
+    <p>The z-index property specifies an stack order of an element</p>
+    <div class="container">
+      <div class="pink-box">pink-box</div>
+      <div class="black-box">Black-box</div>
+      <div class="gray-box">gray-box</div>
+    </div>
+  </body>
+</html>
