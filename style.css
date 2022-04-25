@@ -298,3 +298,7 @@ div img{
 div img:hover{
   opacity:1.0;
 }
+.container{
+  -webkit-mask-image:url(assets/logo.jpg);
+  mask-image:url(assets/logo.jpg);
+}
